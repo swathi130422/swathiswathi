@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<jardesc>
+    <jar path="E:/projects/New folder/coronavirusproject.jar"/>
+    <options buildIfNeeded="true" compress="true" descriptionLocation="/Coronavirus-Tracker/coronavirusproject.jardesc" exportErrors="true" exportWarnings="true" includeDirectoryEntries="false" overwrite="false" saveDescription="true" storeRefactorings="false" useSourceFolders="false"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="true" manifestLocation="" manifestVersion="1.0" reuseManifest="false" saveManifest="false" usesManifest="true">
+        <sealing sealJar="false">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="true" exportJavaFiles="false" exportOutputFolder="false">
+        <file path="/Coronavirus-Tracker/HELP.md"/>
+        <folder path="/Coronavirus-Tracker/target"/>
+        <javaElement handleIdentifier="=Coronavirus-Tracker/target\/generated-sources\/annotations=/ignore_optional_problems=/true=/=/optional=/true=/=/maven.pomderived=/true=/=/m2e-apt=/true=/"/>
+        <file path="/Coronavirus-Tracker/.project"/>
+        <file path="/Coronavirus-Tracker/mvnw.cmd"/>
+        <file path="/Coronavirus-Tracker/pom.xml"/>
+        <javaElement handleIdentifier="=Coronavirus-Tracker/src\/test\/java=/test=/true=/=/optional=/true=/=/maven.pomderived=/true=/"/>
+        <file path="/Coronavirus-Tracker/.gitignore"/>
+        <folder path="/Coronavirus-Tracker/src"/>
+        <javaElement handleIdentifier="=Coronavirus-Tracker/target\/generated-test-sources\/test-annotations=/optional=/true=/=/maven.pomderived=/true=/=/ignore_optional_problems=/true=/=/m2e-apt=/true=/=/test=/true=/"/>
+        <file path="/Coronavirus-Tracker/.classpath"/>
+        <javaElement handleIdentifier="=Coronavirus-Tracker/src\/main\/resources=/maven.pomderived=/true=/=/optional=/true=/"/>
+        <javaElement handleIdentifier="=Coronavirus-Tracker/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/"/>
+        <file path="/Coronavirus-Tracker/mvnw"/>
+    </selectedElements>
+</jardesc>
